@@ -1,2 +1,2 @@
 # Controle-de-Tarefas
-Meu primeiro projeto.
+Meu primeiro projeto Java.
